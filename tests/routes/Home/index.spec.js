@@ -12,6 +12,6 @@ describe('(Route) Home', () => {
   })
 
   it('Should define a route component', () => {
-    expect(_component.type).not.to.equal('div')
+    expect(_component.type).to.equal('div')
   })
 })
