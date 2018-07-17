@@ -1,7 +1,7 @@
 {
   "name": "test-circleCi",
   "version": "3.0.1",
-  "description": "Get started with React, Redux, and React-Router!",
+  "description": "Learn circle ci.",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
